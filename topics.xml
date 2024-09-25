@@ -1,19 +1,22 @@
 <topics>
   <topic>
-    <id></id>
+    <id>https://guides.loc.gov/chronicling-america-yellowstone</id>
     <results>
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+	<id>https://guides.loc.gov/chronicling-america-yellowstone/selected-articles</id>
+	<rel>1</rel>
+	<text>A Great National Park. Hon. N. P. Langford, of Slontann, the leader of the famous Yellowstone expedition of last year, is now in Washington, and, in eonneetion with Professor Hayden, who had charge of the government expedition of this year, is engaged in promoting the project of declaring all that district, including the canon of the Yellowstone, the hot springs and the geysers a government reservation, for the purpose of holding it forever as a national park. • Copies of the May and June numbers ot Scribner's Monthly. containing Langford's graphic story of "Tnc Wonders ol the Yellowstone," have been furnished to every member of Congress. Professor Hayden lias prepared an article f«r the February number of Scribner's. in which he confirms Langford's account. describes additional marvels discovd by himself, aud takes strong ground in favor of the park project. Such a park will, in time, attract to it crowds of the pleasure seekers and scientists of Europe It is not only remarkable for its scenery, but in a scientific point of view is said to be "the most marvelous region on the face of the earth." The illustrations, which are to appear in the February number of Scribtier, are lroin photographs taken by the recent expedition.</text>
       </result>
+	    
       <result>
 	<id>/</id>
 	<rel></rel>
 	<text></text>
       </result>
+	    
     </results>
   </topic>
+	
   <topic>
     <id></id>
     <results>
@@ -29,6 +32,7 @@
       </result>
     </results>
   </topic>
+	
   <topic>
     <id></id>
     <results>
